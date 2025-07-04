@@ -24,10 +24,10 @@ A web application that allows users to compare product prices from multiple sour
 > Update this section based on what you used (example below):
 
 - **Frontend**: React.js / HTML / CSS / JavaScript
-- **Backend**: Node.js / Express / Flask / Django
-- **Database**: MongoDB / PostgreSQL / Firebase
+- **Backend**: Node.js / Express
+- **Database**: MongoDB 
 - **APIs**: Amazon Product Advertising API, Flipkart, eBay API, or custom scrapers
-- **Hosting**: Vercel / Netlify / Heroku / AWS
+
 
 ---
 
