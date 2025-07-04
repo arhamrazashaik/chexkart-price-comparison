@@ -1,0 +1,12 @@
+/* Global styles for your app. You can add more as needed. */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f3f4f6;
+  margin: 0;
+}
+
+/* Example: basic container styling */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
